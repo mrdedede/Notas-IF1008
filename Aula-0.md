@@ -1,5 +1,5 @@
 ### Guidelines
-- Estar presente em todas as aaulas (vale nota)
+- Estar presente em todas as aulas (vale nota)
 - Produção de documentação de requisitos vale 50% da nota!!
 - Pensar no grupo e no o projeto desde cedo
 - Os estudos de viabilidade vao ajudar bastante a entender o problema em mãos
