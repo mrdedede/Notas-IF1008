@@ -1,4 +1,4 @@
-# Introdução a Engenharia de Requisitos
+# Introdução à Engenharia de Requisitos
 
 ## Contexto
 A Engenharia de Requisitos surge num contexto de Engenharia de Software pós-modelo cascata
